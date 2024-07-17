@@ -27,3 +27,7 @@ The dataset used in this project is from Kaggle and contains various features re
 4. **Modeling**: Use the logistic regression algorithm to build the predictive model.
 5. **Evaluation**: Evaluate the performance of the model using appropriate metrics and refine the model as necessary.
 6. **Insights and Recommendations**: Derive insights from the model and suggest recommendations for investors and analysts.
+![Screenshot (1591)](https://github.com/user-attachments/assets/05e87836-a007-4bbb-bac5-ded709a9a9e2)
+
+
+![Screenshot (1592)](https://github.com/user-attachments/assets/540ea1a0-42db-4e68-9e1d-a2d74a214ab7)
